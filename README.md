@@ -10,25 +10,26 @@ Soal.
 5.	Buat laporanya dan kirimkan di form tugas 6
 Jawab : 
 
-1. Database Klinik :
+
+1). Database Klinik :
 
 <img src="" img>
             
-2. Proses Backup dan Recovery dengan SQL
-2.1. Proses Backup SQL : 
+2). Proses Backup dan Recovery dengan SQL
+2.1). Proses Backup SQL : 
 
 <img src="" img>
 
-2.2. Proses Recovery SQL :
+2.2). Proses Recovery SQL :
 
 <img src="" img>
 
-3. Proses Backup dan Recovery dengan SQLDump
-3.1. Proses Backup SQLDump :
+3). Proses Backup dan Recovery dengan SQLDump
+3.1). Proses Backup SQLDump :
 
 <img src="" img>
 
-3.2. Proses Recovery SQLDump :
+3.2). Proses Recovery SQLDump :
 
 <img src="" img>
 
