@@ -8,6 +8,7 @@ Soal.
 3.	Lakukan proses backup dan recovery dengan sqldump dari database tugas seblumnya !
 4.	Tulisakan script cron job untuk melakukan backup otomatis setiap hari minggu jam 12 malam ! 
 5.	Buat laporanya dan kirimkan di form tugas 6
+
 Jawab : 
 
 
