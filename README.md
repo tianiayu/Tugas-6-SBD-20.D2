@@ -17,6 +17,7 @@ Jawab :
 <img src="" img>
             
 2). Proses Backup dan Recovery dengan SQL
+
 2.1). Proses Backup SQL : 
 
 <img src="" img>
@@ -26,6 +27,7 @@ Jawab :
 <img src="" img>
 
 3). Proses Backup dan Recovery dengan SQLDump
+
 3.1). Proses Backup SQLDump :
 
 <img src="" img>
