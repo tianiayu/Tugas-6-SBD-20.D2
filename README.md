@@ -18,7 +18,7 @@ Jawab :
 -	********* (ketikan password)
 -	show databases;
 
-<img src="masuk.bmp" img>
+<img src="masuk.png" img>
             
 2). Proses Backup dan Recovery dengan SQL
 
