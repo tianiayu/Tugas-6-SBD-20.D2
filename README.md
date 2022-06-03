@@ -14,13 +14,17 @@ Jawab :
 
 1). Database Klinik :
 
-<img src="" img>
+-	mysql -u adminklinik -p
+-	********* (ketikan password)
+-	show databases;
+
+<img src="masuk.png" img>
             
 2). Proses Backup dan Recovery dengan SQL
 
 2.1). Proses Backup SQL : 
 
-<img src="" img>
+<img src="tables.png" img>
 
 2.2). Proses Recovery SQL :
 
