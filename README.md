@@ -35,6 +35,6 @@ Jawab :
 <img src="" img>
 
 
-4. Scrip Cron Job Backup otomatis setiap hari minggu jam 12 malam :
+4). Scrip Cron Job Backup otomatis setiap hari minggu jam 12 malam :
 
 "mysql -u adminklinik -p 312010098 klinik_312010098 > backup2.sql"
