@@ -62,16 +62,18 @@ select * into outfile ‘b_obat’ from obat;
 
 3.1). Proses Backup SQLDump :
 -	mysqldump -u adminklinik -p klinik_312010098 > backup2.sql
-<img src="d1" img>
+<img src="d1.png" img>
 
 3.2). Proses Recovery SQLDump :
+
 -	mysqldump -u adminklinik -p klinik_312010098 < C:\xampp\mysql\bin\backup2.sql
-<img src="d2" img>
+
+<img src="d2.png" img>
 
 -	Dump complate 
 
-<img src="d3" img>
+<img src="d3.png" img>
 
 4). Scrip Cron Job Backup otomatis setiap hari minggu jam 12 malam :
 
-"mysql -u adminklinik -p 312010098 klinik_312010098 > backup2.sql"
+"07**7 mysql -u adminklinik -p 312010098 klinik_312010098 > backup2.sql"
