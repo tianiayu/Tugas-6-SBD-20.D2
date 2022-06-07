@@ -18,17 +18,45 @@ Jawab :
 -	********* (ketikan password)
 -	show databases;
 
-<img src="masuk.jpg" img>
+<img src="masuk.png" img>
             
 2). Proses Backup dan Recovery dengan SQL
 
 2.1). Proses Backup SQL : 
 
+-	use klinik_312010098;
+-	show tables;
+
 <img src="tables.png" img>
+
+-	lock table obat write;
+
+<img src="lock.png" img>
+
+select * into outfile ‘b_obat’ from obat;
+
+<img src="into.png" img>
+
+-	This PC – Local Disk (C:) – xampp – mysql – data – klinik_312010098
+
+<img src="PC.png" img>
+
 
 2.2). Proses Recovery SQL :
 
-<img src="" img>
+-	select * from obat;
+-	delete from obat;
+
+<img src="delete.png" img>
+
+-	select * from obat; (after di delete data sudah kosong)
+
+<img src="cek.png" img>
+
+-	load data infile 'b_obat' into table obat;
+-	select * from obat; (after di restore data sudah ada kembali)
+
+<img src="after.png" img>
 
 3). Proses Backup dan Recovery dengan SQLDump
 
